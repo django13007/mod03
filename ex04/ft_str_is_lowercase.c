@@ -1,4 +1,4 @@
-#include <stdio.h>
+
 int ft_str_is_lowercase(char *str)
 {
     int c = 0;
@@ -13,6 +13,4 @@ int ft_str_is_lowercase(char *str)
         return(0);
     }
 return(1);
-    
-
 }

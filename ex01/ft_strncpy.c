@@ -1,4 +1,3 @@
-#include <stdio.h>
 
 char *ft_strncpy(char *dest, char *src, unsigned int n)
 {
@@ -11,6 +10,5 @@ char *ft_strncpy(char *dest, char *src, unsigned int n)
 	dest[c] = '\0';
 	return (dest);
 }
-
 
 

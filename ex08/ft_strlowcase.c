@@ -1,4 +1,4 @@
-#include <stdio.h>
+
 char *ft_strlowcase(char *str)
 {
     int c = 0;

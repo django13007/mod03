@@ -1,5 +1,4 @@
 
-#include <stdio.h>
 int	ft_str_is_printable(char *str)
 {
     int c = 0;
@@ -14,4 +13,4 @@ int	ft_str_is_printable(char *str)
         return(0);
     }
 return(1);
-    
+}
