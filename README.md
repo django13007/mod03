@@ -21,3 +21,16 @@ ex06 Correcto.
 ex07 Correcto.
 ex08 Correcto.
 
+
+agonzales
+ex00 ok.
+ex01 ok.
+ex02 ok.
+ex03 ok.
+ex04 ok.
+ex05 ok.
+ex06 ok.
+ex07 ok.
+ex08 ok.
+
+
